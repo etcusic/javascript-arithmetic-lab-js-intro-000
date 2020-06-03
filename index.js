@@ -20,8 +20,8 @@ function increment(n){
 }
 
 function decrement(n){
-  n--
-  return n
+  n--;
+  return n;
 }
 
 function makeInt(n){
