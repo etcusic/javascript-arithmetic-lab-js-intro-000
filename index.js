@@ -19,6 +19,11 @@ function increment(n){
   return n;
 }
 
-function makeInt(n){
+function decrement(n){
+  n--
+  return n
+}
 
+function makeInt(n){
+  
 }
